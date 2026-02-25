@@ -10,10 +10,3 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Miguel | LinkedIn" width="22px" src="www.linkedin.com/in/miguel-lopez-77b778393" />][linkedin]
-
-
-
-[linkedin]: www.linkedin.com/in/miguel-lopez-77b778393
